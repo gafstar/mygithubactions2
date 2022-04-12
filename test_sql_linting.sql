@@ -1,1 +1,6 @@
-SELECT *  From  database.table Limit 10;
+SELECT 
+    b,
+    c,
+    d,
+FROM database.table 
+LIMIT 10;
