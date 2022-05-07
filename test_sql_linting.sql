@@ -2,4 +2,5 @@ SELECT
     b,
     c,
     d
-FROM database.table;
+FROM 
+database.table;
